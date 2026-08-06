@@ -1,16 +1,61 @@
-## Hi there 👋
+# Gebreyesus Gebrerufael Kidanu
 
-<!--
-**gebreyesus21/gebreyesus21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Cloud & Infrastructure Engineer
 
-Here are some ideas to get you started:
+I am a Senior IT Infrastructure Specialist with 12+ years of experience supporting enterprise-scale telecommunications and IT environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise combines traditional infrastructure operations with modern cloud technologies, including AWS, Google Cloud, Kubernetes, Linux, virtualization, automation, and monitoring.
+
+## Professional Experience
+
+- 12+ years enterprise IT and telecom operations
+- Ethio Telecom infrastructure operations
+- Supported 300+ servers
+- Supported 43 Enterprise Network Management Systems
+- Supported 10,000+ Network Elements
+
+## Technical Focus
+
+### Cloud
+- AWS
+- Google Cloud Platform
+- Oracle Cloud Infrastructure
+
+### Infrastructure
+- Linux
+- Windows Server
+- VMware
+- Data Center Operations
+
+### Cloud Native
+- Kubernetes
+- Docker
+- Terraform
+- Ansible
+
+### Monitoring
+- Prometheus
+- Grafana
+- Enterprise Monitoring
+- OSS/NMS/EMS
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Cloud Practitioner
+- Google Cloud Associate Cloud Engineer
+- OCI Generative AI Professional
+- Linux Foundation Certified System Administrator
+
+## Featured Projects
+
+🚀 AWS Enterprise Infrastructure Lab  
+🚀 Kubernetes Production Environment  
+🚀 Infrastructure Monitoring Platform  
+🚀 Linux Automation Toolkit  
+🚀 Hybrid Cloud Architecture
+
+## Contact
+
+LinkedIn:
+your-linkedin-profile
