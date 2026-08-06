@@ -57,5 +57,4 @@ My expertise combines traditional infrastructure operations with modern cloud te
 
 ## Contact
 
-LinkedIn:
-your-linkedin-profile
+LinkedIn:https://www.linkedin.com/in/gebreyesus-gebrerufael/
